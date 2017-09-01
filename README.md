@@ -1,0 +1,2 @@
+# CoolPlugin
+Sample cordova plugin
